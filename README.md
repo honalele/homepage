@@ -2,7 +2,7 @@
 
 #### Research Assistant, 2nd Year PhD student in Informatics at Nagoya University
 
-I am interested in designing a Human-in-the-Loop framework for personalized autonomous driving. During PhD I will implement the prototype of data-driven control to combine driver model with model predictive control.
+I am interested in designing personalized autonomous driving. During PhD I will implement a Human-in-the-Loop prototype for personalized data-driven control to combine driver model with model predictive control.
 
 
 ##### Publications
