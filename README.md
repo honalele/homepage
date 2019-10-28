@@ -11,7 +11,7 @@ I am interested in designing personalized autonomous driving. During PhD I will 
 - Naren Bao, Chiyomi Miyajima, Akira Tamamori, Eijiro Takeuchi, and Kazuya Takeda, ”Estimating Subjective Driving Risk Feeling using Random Forest,” 2018 IEICE General Conferences, Tokyo, Mar. 2018. 
 - Naren Bao, Chiyomi Miyajima, Eijiro Takeuchi, Kazuya Takeda, Shinichiro Honda, Toshiya Yoshitani, and Masayoshi Ito,”Estimating Risk Levels Perceived by Indi- viduals for Lane Change Scenes,”The fourth Internetional Symposium on Future Active Safety Technology Toward zero traffic accidents, Nara, Sept. 2017. 
 - Naren Bao, Chiyomi Miyajima, Eijiro Takeuchi, and Kazuya Takeda, ”Analysis of Individual Risk Perception during Highway Lane-Change Scenes,” The 79th National Convention of IPSJ, Nagoya, Mar. 2017. 
-- Naren Bao, Daiki Hayashi, Chiyomi Miyajima, and Kazuya Takeda, ”Prediction of Individual Driving Behavior on Highway Curves,” The third Workshop on Natural- istic Driving Data Analysitics, IEEE Intelligent Vehicles Symposium (IV), Gothen- burg, June 2016. 
+- Naren Bao, Daiki Hayashi, Chiyomi Miyajima, and Kazuya Takeda, ”Prediction of Individual Driving Behavior on Highway Curves,” The third Workshop on Natural- istic Driving Data Analysitics, IEEE Intelligent Vehicles Symposium (IV), Gothenburg, June 2016. 
 
 ##### ”How to win the Nobel Prize” - Esaki Leo
 
