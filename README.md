@@ -13,7 +13,7 @@ I am interested in designing a Human-in-the-Loop framework for personalized auto
 - Naren Bao, Chiyomi Miyajima, Eijiro Takeuchi, and Kazuya Takeda, ”Analysis of Individual Risk Perception during Highway Lane-Change Scenes,” The 79th National Convention of IPSJ, Nagoya, Mar. 2017. 
 - Naren Bao, Daiki Hayashi, Chiyomi Miyajima, and Kazuya Takeda, ”Prediction of Individual Driving Behavior on Highway Curves,” The third Workshop on Natural- istic Driving Data Analysitics, IEEE Intelligent Vehicles Symposium (IV), Gothen- burg, June 2016. 
 
-##### by Esaki Leo
+##### ”How to win the Nobel Prize” - Esaki Leo
 
 1. Don't allow yourself to be trapped by your past experiences. Don't hold on your preconceived motion. If you allow yourself to get caught up in social conventions or circumstances, you will not notice the opportunity for a dramatic leap forward when it present itself. You should be a free spirit.
 
@@ -25,4 +25,4 @@ I am interested in designing a Human-in-the-Loop framework for personalized auto
 
 5. Don't forget your spirit of childhood curiosity. It is the most vital component of creativity. いつまでも初々しい感性と飽くなき好奇心を失ってはいけない。
 
-これらを述べた江崎Leoさんはこういった。上記の５つは必要だが、充分条件ではない。その上に運とChanceも必要。
+これらを述べた江崎Leoさんはこういった。上記の５つは必要だが、充分条件ではない。その上に運とChanceも必要なんだ。
