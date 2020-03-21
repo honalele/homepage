@@ -1,6 +1,7 @@
 # Naren Bao
 
-
+Love, Peace, Joy.
+-----------------------------------------------------------------------------------
 ##### Introduction
 
 - Founder of AquaAge Inc. 
@@ -19,3 +20,5 @@ I am also the founder of AquaAge Inc. https://www.aquaage.org/
 - Naren Bao, Daiki Hayashi, Chiyomi Miyajima, and Kazuya Takeda, ”Prediction of Individual Driving Behavior on Highway Curves,” The third Workshop on Natural- istic Driving Data Analysitics, IEEE Intelligent Vehicles Symposium (IV), Gothenburg, June 2016. 
 
 -----------------------------------------------------------------------------------
+
+![Deep learning](./fig/deep_learning_course1.png)
