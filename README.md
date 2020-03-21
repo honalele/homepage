@@ -20,4 +20,8 @@ I am also the founder of AquaAge Inc. https://www.aquaage.org/
 
 -----------------------------------------------------------------------------------
 
+#### I am having fun of Coursera courses.
+
+- Neural Networks and Deep Learning
+
 <img src="./fig/deep_learning_course1.png" alt="Deep learning" style="zoom:67%;" />
