@@ -1,8 +1,7 @@
-# Naren Bao
+# Naren Bao, 包 娜仁
 
-Love, Peace, Joy.
 -----------------------------------------------------------------------------------
-##### Introduction
+### Introduction
 
 - Founder of AquaAge Inc. 
 - PhD student in Informatics at Nagoya University
@@ -11,7 +10,7 @@ My research interest is modeling personalized driving styles for autonomous driv
 I am also the founder of AquaAge Inc. https://www.aquaage.org/
 
 -----------------------------------------------------------------------------------
-##### Publications
+### Publications
 
 - Naren Bao, Dongfang Yang, Alexander Carballo, Umit Ozguner and Kazuya Takeda, “Personalized Safety-focused Control by Minimizing Subjective Risk,” in 2019 IEEE Intelligent Transportation Systems Conference (ITSC) Auckland, NZ, October 27-30, pp. 3853–3859, Oct. 2019.
 - Naren Bao, Chiyomi Miyajima, Akira Tamamori, Eijiro Takeuchi, and Kazuya Takeda, ”Estimating Subjective Driving Risk Feeling using Random Forest,” 2018 IEICE General Conferences, Tokyo, Mar. 2018. 
