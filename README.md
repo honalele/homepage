@@ -26,4 +26,4 @@ I am also the founder of AquaAge Inc. https://www.aquaage.org/
 
 <img src="./fig/deep_learning_course1.png" alt="Deep learning" style="zoom:67%;" />
 
-<img src="./fig/deep_learning_course2.png" />
+<img src="./fig/deep_learning_course2.png" alt="Deep learning" style="zoom:67%;" />
