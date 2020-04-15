@@ -33,3 +33,9 @@ I am also the founder of AquaAge Inc. https://www.aquaage.org/
 - Structuring Machine Learning Project
 
 <img src="./fig/deep_learning_course3.png" alt="Deep learning" style="zoom:67%;" />
+
+- Convolutional Neural Networks
+
+<img src="./fig/deep_learning_course4.png" alt="Deep learning" style="zoom:67%;" />
+
+
