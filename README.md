@@ -38,4 +38,8 @@ I am also the founder of AquaAge Inc. https://www.aquaage.org/
 
 <img src="./fig/deep_learning_course4.png" alt="Deep learning" style="zoom:67%;" />
 
+- Introduction to Self-driving Cars
+It takes me several months to finish this self-driving introduction course, but it is worth it. Now I have an overview of how self-driving cars are being conducted. I still need a lot to explore.
+
+<img src="./fig/self_driving_course1.png" alt="Deep learning" style="zoom:67%;" />
 
