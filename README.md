@@ -9,6 +9,8 @@
 My research interest is modeling personalized driving styles for autonomous driving. During my PhD course, I first model subjective risk levels for individuals, and I will implement a Human-in-the-Loop prototype for personalized data-driven control to combine learning based risk models with model predictive control. 
 I am also the founder of AquaAge Inc. https://www.aquaage.org/
 
+My search information is update in ResearchGate, which is from following. www.researchgate.net/profile/Naren_Bao2
+
 -----------------------------------------------------------------------------------
 ### Publications
 
