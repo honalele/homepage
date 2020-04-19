@@ -9,7 +9,7 @@
 My research interest is modeling personalized driving styles for autonomous driving. During my PhD course, I first model subjective risk levels for individuals, and I will implement a Human-in-the-Loop prototype for personalized data-driven control to combine learning based risk models with model predictive control. 
 I am also the founder of AquaAge Inc. https://www.aquaage.org/
 
-My search information is update in ResearchGate, which is from following. www.researchgate.net/profile/Naren_Bao2
+My search information is updated in ResearchGate, which is from following. www.researchgate.net/profile/Naren_Bao2
 
 -----------------------------------------------------------------------------------
 ### Publications
@@ -41,7 +41,8 @@ My search information is update in ResearchGate, which is from following. www.re
 <img src="./fig/deep_learning_course4.png" alt="Deep learning" style="zoom:67%;" />
 
 - Introduction to Self-driving Cars
-It takes me several months to finish this self-driving introduction course, but it is worth it. Now I have an overview of how self-driving cars are being conducted. I still need a lot to explore.
+
+It takes me several months to finish this self-driving introduction course, but it's totally worth it. Now I have an overview of how self-driving cars being conducted. I still need a lot to explore in this field.
 
 <img src="./fig/self_driving_course1.png" alt="Deep learning" style="zoom:67%;" />
 
