@@ -7,9 +7,12 @@
 - PhD student in Informatics at Nagoya University
 
 My research interest is modeling personalized driving styles for autonomous driving. During my PhD course, I first model subjective risk levels for individuals, and I will implement a Human-in-the-Loop prototype for personalized data-driven control to combine learning based risk models with model predictive control. 
-I am also the founder of AquaAge Inc. https://www.aquaage.org/
+I am also the founder of AquaAge Inc. 
 
-My search information is updated in ResearchGate, which is from following. www.researchgate.net/profile/Naren_Bao2
+[New homepage] https://www.aquaage.ai/
+
+My search information is updated in ResearchGate, which is from following. 
+[ResearchGate] www.researchgate.net/profile/Naren_Bao2
 
 -----------------------------------------------------------------------------------
 ### Publications
