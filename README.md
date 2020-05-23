@@ -28,6 +28,10 @@ My search information is updated in ResearchGate, which is from following.
 
 #### I am having fun of Coursera courses.
 
+- Deep Learning Specialization
+Finally, I finished the deep learning specialization for all five courses. Having so many fun.
+<img src="./fig/deep_learining.png" alt="Deep learning" style="zoom:67%;" />
+
 - Neural Networks and Deep Learning
 
 <img src="./fig/deep_learning_course1.png" alt="Deep learning" style="zoom:67%;" />
@@ -50,3 +54,6 @@ It takes me several months to finish this self-driving introduction course, but 
 
 <img src="./fig/self_driving_course1.png" alt="Deep learning" style="zoom:67%;" />
 
+- Sequence Models
+This part includes GRU, LSTM, BLSTM, Encoder-Decoder part, and Attention based BLSTM part. So proud of myself!
+<img src="./fig/deep_learining.png" alt="Deep learning" style="zoom:67%;" />
