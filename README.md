@@ -19,7 +19,7 @@ My search information is updated in ResearchGate, which is from following.
 ### Publications
 
 ------ *2019*------
-- Naren Bao, Dongfang Yang, Alexander Carballo, Umit Ozguner and Kazuya Takeda, “Personalized Safety-focused Control by Minimizing Subjective Risk,” in 2019 IEEE Intelligent Transportation Systems Conference (ITSC) Auckland, NZ, October 27-30, pp. 3853–3859, Oct. 2019.
+- <u>Naren Bao<u>, Dongfang Yang, Alexander Carballo, Umit Ozguner and Kazuya Takeda, “Personalized Safety-focused Control by Minimizing Subjective Risk,” in 2019 IEEE Intelligent Transportation Systems Conference (ITSC) Auckland, NZ, October 27-30, pp. 3853–3859, Oct. 2019.
 
 ------ *2018*------
 - Naren Bao, Chiyomi Miyajima, Akira Tamamori, Eijiro Takeuchi, and Kazuya Takeda, ”Estimating Subjective Driving Risk Feeling using Random Forest,” 2018 IEICE General Conferences, Tokyo, Mar. 2018. 
