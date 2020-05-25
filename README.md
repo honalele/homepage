@@ -35,25 +35,10 @@ My search information is updated in ResearchGate, which is from following.
 
 #### I am having fun of Coursera courses.
 
-- Deep Learning Specialization: Finally, I finished the deep learning specialization for all five courses. Having so many fun.
+- Having so much fun during this 'deeplearning.ai' specialization course in Coursera taught by Prof. Andrew Ng. Such a good course organized on gaining an intuitive understanding of recurrent and convolutional neural networks including attention mechanism, transfer learning ideas. Handy programming practice such as neural machine translation, facial recognition helped me observe more details on implementation. Highly recommended course.
 
 <img src="./fig/deep_learining.png" alt="Deep learning" style="zoom:60%;" />
 
-- Neural Networks and Deep Learning
-
-<img src="./fig/deep_learning_course1.png" alt="Deep learning" style="zoom:67%;" />
-
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-
-<img src="./fig/deep_learning_course2_2.png" alt="Deep learning" style="zoom:67%;" />
-
-- Structuring Machine Learning Project
-
-<img src="./fig/deep_learning_course3.png" alt="Deep learning" style="zoom:67%;" />
-
-- Convolutional Neural Networks
-
-<img src="./fig/deep_learning_course4.png" alt="Deep learning" style="zoom:67%;" />
 
 - Introduction to Self-driving Cars
 
@@ -61,7 +46,4 @@ It takes me several months to finish this self-driving introduction course, but 
 
 <img src="./fig/self_driving_course1.png" alt="Deep learning" style="zoom:67%;" />
 
-- Sequence Models
 
-This part includes GRU, LSTM, BLSTM, Encoder-Decoder part, and Attention based BLSTM part. So proud of myself!
-<img src="./fig/deep_learning_course5.png" alt="Deep learning" style="zoom:67%;" />
