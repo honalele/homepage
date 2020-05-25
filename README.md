@@ -29,7 +29,7 @@ My search information is updated in ResearchGate, which is from following.
 - Naren Bao, Chiyomi Miyajima, Eijiro Takeuchi, and Kazuya Takeda, ”Analysis of Individual Risk Perception during Highway Lane-Change Scenes,” The 79th National Convention of IPSJ, Nagoya, Mar. 2017. 
 
 ------ *2016*------
-- Naren Bao, Daiki Hayashi, Chiyomi Miyajima, and Kazuya Takeda, ”Prediction of Individual Driving Behavior on Highway Curves,” The third Workshop on Natural- istic Driving Data Analysitics, IEEE Intelligent Vehicles Symposium (IV), Gothenburg, June 2016. 
+- Naren Bao, Daiki Hayashi, Chiyomi Miyajima, and Kazuya Takeda, ”Prediction of Individual Driving Behavior on Highway Curves,” The third Workshop on Naturalistic Driving Data Analysitics, IEEE Intelligent Vehicles Symposium (IV), Gothenburg, June 2016. 
 
 -----------------------------------------------------------------------------------
 
