@@ -3,9 +3,6 @@
 -----------------------------------------------------------------------------------
 ### Introduction
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![book](./fig/naren_long.png)
-</div>
 - Founder of AquaAge Inc. 
 - | PhD student in Informatics at Nagoya University    | ![Flowers](./fig/naren_long.png) |
 
