@@ -19,7 +19,7 @@ My search information is updated in ResearchGate, which is from following.
 ### Publications
 
 ------ *2020*------
-- <u>Naren Bao</u>, Alexander Carballo, Chiyomi Miyajima, Eijiro Takeuchi, and Kazuya Takeda, “Personalized Subjective Driving Risk: Analysis and Prediction,” Journal of Robotics and Mechatronics, Vol.32 No.3,June. 2020.
+- <u>Naren Bao</u>, Alexander Carballo, Chiyomi Miyajima, Eijiro Takeuchi, and Kazuya Takeda, “Personalized Subjective Driving Risk: Analysis and Prediction,” Journal of Robotics and Mechatronics, Vol.32 No.3, June, 2020.
 
 ------ *2019*------
 - <u>Naren Bao</u>, Dongfang Yang, Alexander Carballo, Umit Ozguner and Kazuya Takeda, “Personalized Safety-focused Control by Minimizing Subjective Risk,” in 2019 IEEE Intelligent Transportation Systems Conference (ITSC) Auckland, NZ, October 27-30, pp. 3853–3859, Oct. 2019.
