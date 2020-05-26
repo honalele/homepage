@@ -4,9 +4,8 @@
 ### Introduction
 
 - Founder of AquaAge Inc. 
-- PhD student in Informatics at Nagoya University
+- |PhD student in Informatics at Nagoya University  | ![Flowers](/f./fig/naren_long.png) |
 
-<img style="float: right;" src="./fig/naren_long.png"; style="zoom:20%;">
 
 My research interest is modeling personalized driving styles for autonomous driving. During my PhD course, I first model subjective risk levels for individuals, and I will implement a Human-in-the-Loop prototype for personalized data-driven control to combine learning based risk models with model predictive control. 
 I am also the founder of AquaAge Inc. 
