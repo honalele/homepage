@@ -27,7 +27,7 @@ My search information is updated in ResearchGate, which is from following.
 - <u>Naren Bao</u>, Chiyomi Miyajima, Akira Tamamori, Eijiro Takeuchi, and Kazuya Takeda, ”Estimating Subjective Driving Risk Feeling using Random Forest,” 2018 IEICE General Conferences, Tokyo, Mar. 2018. 
 
 ------ *2017*------
-- <u>Naren Bao</u>, Chiyomi Miyajima, Eijiro Takeuchi, Kazuya Takeda, Shinichiro Honda, Toshiya Yoshitani, and Masayoshi Ito,”Estimating Risk Levels Perceived by Indi- viduals for Lane Change Scenes,”The fourth Internetional Symposium on Future Active Safety Technology Toward zero traffic accidents, Nara, Sept. 2017. 
+- <u>Naren Bao</u>, Chiyomi Miyajima, Eijiro Takeuchi, Kazuya Takeda, Shinichiro Honda, Toshiya Yoshitani, and Masayoshi Ito,”Estimating Risk Levels Perceived by Individuals for Lane Change Scenes,”The fourth Internetional Symposium on Future Active Safety Technology Toward zero traffic accidents, Nara, Sept. 2017. 
 - <u>Naren Bao</u>, Chiyomi Miyajima, Eijiro Takeuchi, and Kazuya Takeda, ”Analysis of Individual Risk Perception during Highway Lane-Change Scenes,” The 79th National Convention of IPSJ, Nagoya, Mar. 2017. 
 
 ------ *2016*------
