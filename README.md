@@ -49,3 +49,11 @@ It takes me several months to finish this self-driving introduction course, but 
 <img src="./fig/self_driving_course1.png" alt="Deep learning" style="zoom:67%;" />
 
 
+- State Estimation and Localization for Self-Driving Cars.
+In this course, I've learned many knowledge in state estimation such as using several Kalman filters to localize the surrounding vehiles using Lidar and GNSS information. I still have many unknown topic in this field, but I think I had a very general idea about state estimation and localization, which are crucial for autonoumous driving technoledges .
+
+
+<img src="./fig/self_driving_course2.png" alt="Deep learning" style="zoom:67%;" />
+
+
+
