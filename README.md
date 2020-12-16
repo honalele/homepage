@@ -60,4 +60,4 @@ In this course, I've learned many knowledge in state estimation such as using se
 - Mathematics for Machine Learning: Multivariate Calculus.
 
 
-<img src="./fig/math_ml.png" alt="Deep learning" style="zoom:67%;" />
+<img src="./fig/math_ml.png" alt="Mathematics for Machine Learning: Multivariate Calculus" style="zoom:67%;" />
