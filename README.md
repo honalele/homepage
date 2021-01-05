@@ -70,7 +70,7 @@ I have a project to learn how to use Firebase to generate WebApp and AndroidApp 
 <img src="./fig/firebase.png" alt="Firebase" style="zoom:67%;" />
 
 * Introduction to ROS.
-<img src="./fig/ROS.png" alt="ROS" style="zoom:67%;" />
+<img src="./fig/ros.png" alt="ROS" style="zoom:67%;" />
 
 
 
