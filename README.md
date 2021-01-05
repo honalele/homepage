@@ -62,9 +62,17 @@ In this course, I've learned many knowledge in state estimation such as using se
 
 <img src="./fig/math_ml.png" alt="Mathematics for Machine Learning: Multivariate Calculus" style="zoom:67%;" />
 
-- Build a Google Firebase Web Application.
+- Some simple project work 
+
+* Build a Google Firebase Web Application.
 I have a project to learn how to use Firebase to generate WebApp and AndroidApp using JS and HTML. It was a fun course.
 
-<img src="./fig/firebase.png" alt="Mathematics for Machine Learning: Multivariate Calculus" style="zoom:67%;" />
+<img src="./fig/firebase.png" alt="Firebase" style="zoom:67%;" />
+
+* Introduction to ROS.
+<img src="./fig/ROS.png" alt="ROS" style="zoom:67%;" />
+
+
+
 
 
